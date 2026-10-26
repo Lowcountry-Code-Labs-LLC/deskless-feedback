@@ -24,11 +24,10 @@ Start a Discussion for:
 👉 Go to Discussions: https://github.com/Lowcountry-Code-Labs-LLC/deskless-feedback/discussions
 
 ## Supported platforms
-- **iOS**
-- **iPadOS**
-- **Android (coming soon)**
+Deskless 3.0 is live on iPhone, iPad and Android.
 
-If you’re reporting something Android-related, feel free to post in Discussions until the Android build is publicly available.
+- **iOS / iPadOS**: [Download on the App Store](https://apps.apple.com/us/app/deskless/id6756940860)
+- **Android**: [Get it on Google Play](https://play.google.com/store/apps/details?id=app.deskless)
 
 ## Security issues
 Please **do not** report security vulnerabilities in Issues or Discussions.
